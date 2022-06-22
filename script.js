@@ -17,8 +17,8 @@ const createTriangule = () => {
   //   return result.innerHTML += `<div>${elemento}</div>`
   // })
   for(let i=1; i <= starsNumber; i++) {
-    result.innerHTML += `${star.repeat(i)} </br>`
-    // console.log(star.repeat(i), '\n')
+    // result.innerHTML += `${star.repeat(i)} </br>`
+    console.log(star.repeat(i), '\n')
   }
 
 
