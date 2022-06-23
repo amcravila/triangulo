@@ -21,7 +21,7 @@ const createTriangule = () => {
     // console.log(star.repeat(i), '\n')
   }
 console.log("branch nova")
-
+console.log("branch master")
 } 
 
 
