@@ -20,7 +20,7 @@ const createTriangule = () => {
     result.innerHTML += `${star.repeat(i)} </br>`
     // console.log(star.repeat(i), '\n')
   }
-
+console.log("branch nova")
 
 } 
 
